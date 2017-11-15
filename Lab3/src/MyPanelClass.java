@@ -70,4 +70,4 @@ public class MyPanelClass extends JPanel {
                         g.setColor(Color.WHITE);
                         g.drawPolygon(p2);
             }
-} 
+}  
